@@ -1,5 +1,5 @@
 #######################################
-# Syntax Coloring Map for SoftwareSerial
+# Syntax Coloring Map for HalfDuplexSoftwareSerial
 # (formerly NewSoftSerial)
 #######################################
 
