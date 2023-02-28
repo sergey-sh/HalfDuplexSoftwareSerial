@@ -49,7 +49,7 @@ http://arduiniana.org.
 
 class SoftwareSerial : public Stream
 {
-private:
+protected:
   // per object data
   uint8_t _receivePin;
   uint8_t _receiveBitMask;
